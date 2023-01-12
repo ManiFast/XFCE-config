@@ -1,4 +1,6 @@
 # XFCE-config
 /home/User/.config/xfce4/xfconf/xfce-perchannel-xml
 
-![image](https://user-images.githubusercontent.com/62830326/212065788-6c406620-404b-49a8-a3f8-611de7a438c7.png)
+
+
+![image](https://user-images.githubusercontent.com/62830326/212066096-6b01fed0-0a3c-4b35-8227-1873c98e0bcd.png)
